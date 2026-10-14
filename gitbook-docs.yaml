@@ -10,7 +10,7 @@ site:
       children:
         - type: space
           key: space-1
-          title: docs
+          title: 🇺🇸
           path: docs
           default: true
           content:
@@ -18,14 +18,14 @@ site:
             language: en
         - type: space
           key: space-2
-          title: Français
+          title: 🇫🇷
           path: francais
           content:
             directory: ./docs/francais
             language: fr
         - type: space
           key: space-3
-          title: Deutsch
+          title: 🇩🇪
           path: deutsch
           content:
             directory: ./docs/deutsch
