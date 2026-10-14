@@ -1,7 +1,5 @@
 ---
-metaLinks:
-  alternates:
-    - https://app.gitbook.com/s/l5mL35CdqDju9Jqrh42g/non-matching-slugs
+metaLinks: {}
 ---
 
 # Slugs non correspondants
