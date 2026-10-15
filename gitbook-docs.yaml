@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Multilingual Docs Test
+  title: loc
   structure:
     - type: section
       key: section-1
