@@ -20,6 +20,7 @@ site:
           key: space-2
           title: 🇫🇷
           path: francais
+          condition: visitor.region === 'ireland'
           content:
             directory: ./docs/francais
             language: fr
