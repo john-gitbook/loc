@@ -13,6 +13,7 @@ site:
           title: 🇺🇸
           path: docs
           default: true
+          condition: visitor.region === 'spain'
           content:
             directory: ./docs
             language: en
@@ -28,6 +29,7 @@ site:
           key: space-3
           title: 🇩🇪
           path: deutsch
+          condition: visitor.region === 'spain'
           content:
             directory: ./docs/deutsch
             language: de
